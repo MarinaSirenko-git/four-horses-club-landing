@@ -1,0 +1,33 @@
+:root {
+  /* Text */
+  --color-text-primary: #313131;
+  --color-accent: #f54932;
+  --color-text-additional: #3057a2;
+  --color-text-on-bg: #ffffff;
+  --color-bg-section: #e9ded4;
+
+  /* Buttons */
+
+  --color-btn-primary-bg: #1f1f1f;
+  --color-btn-primary-border: #1f1f1f;
+  --color-btn-primary-hover: #fbce51;
+
+  --color-btn-secondary-bg: transparent;
+  --color-btn-secondary-border: #1f1f1f;
+  --color-btn-secondary-hover: #1f1f1f;
+
+  --color-btn-tertiary-bg: transparent;
+  --color-btn-tertiary-border: #3057a2;
+  --color-btn-tertiary-hover: #3057a2;
+
+  --color-btn-disabled: #d6d6d6;
+
+  /* Table */
+  --color-table-border: #D0D0D0;
+
+  /*  Scroll padding */
+  --header-scroll-padding: -88px;
+  --participants-anchor-offset: -100px;
+
+  --ticker-duration: 42s;
+}

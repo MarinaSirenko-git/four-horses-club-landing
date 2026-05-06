@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Golos Text";
+  src: url("../assets/fonts/golos-text-variable.woff2") format("woff2");
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("../assets/fonts/merriweather-variable.woff2") format("woff2");
+  font-weight: 300 900;
+  font-stretch: 87% 112%;
+  font-style: normal;
+  font-display: swap;
+}

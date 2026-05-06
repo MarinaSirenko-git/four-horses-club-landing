@@ -1,0 +1,27 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--header-scroll-padding);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.u-relative {
+  position: relative;
+}
+
+.u-text-accent {
+  color: var(--color-accent);
+  font-weight: 700;
+}
+
+.u-section-padding {
+  padding: 100px 0;
+}
+
+.u-hidden-mobile {
+  display: none;
+}
