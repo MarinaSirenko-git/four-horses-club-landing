@@ -1,8 +1,7 @@
 # Four Horses Club — лендинг
+Досупен публично: https://four-horses-club-landing.pages.dev/.
 
 Этот README — пошаговая инструкция как сверстать такой лендинг от пустой структуры проекта до адаптивной страницы.
-
-Опубликованный лендинг: `https://four-horses-club-landing.pages.dev/`
 
 ![Первый экран](./assets/docs/first-screen.png)
 
